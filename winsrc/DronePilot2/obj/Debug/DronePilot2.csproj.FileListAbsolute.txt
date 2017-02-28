@@ -1,0 +1,10 @@
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\bin\Debug\DronePilot2.exe.config
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\bin\Debug\DronePilot2.exe
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\bin\Debug\DronePilot2.pdb
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\bin\Debug\XInputDotNetPure.dll
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\obj\Debug\DronePilot2.csprojResolveAssemblyReference.cache
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\obj\Debug\DronePilot.MainScreen.resources
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\obj\Debug\DronePilot2.Properties.Resources.resources
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\obj\Debug\DronePilot2.csproj.GenerateResource.Cache
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\obj\Debug\DronePilot2.exe
+C:\Users\anabi\Desktop\todo\FPV-drone\XInputDotNet-master\DronePilot2\obj\Debug\DronePilot2.pdb
